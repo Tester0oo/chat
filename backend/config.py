@@ -1,1 +1,0 @@
-DATABASE_FILE = "portfolio/messanger/backend/datachat.db"
